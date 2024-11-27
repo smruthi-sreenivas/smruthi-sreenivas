@@ -23,9 +23,10 @@ I'm a **Dynamic Computer Vision Engineer** with a strong background in developin
   ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### 🌟 Featured Projects
-- 🖼️ [Skin Smoothing Filter](https://github.com/username/skin-smoothing-filter): Implemented face detection and skin patch isolation for natural skin smoothing.
-- 📄 [Document Extraction with GrabCut](https://github.com/username/document-extraction): Extracting documents using GrabCut with contour analysis.
-- 🤖 [Green Screen Matting Algorithm](https://github.com/username/green-screen-matting): Added Softness and Color Cast sliders for customizable background replacement.
+- 🖼️ [Skin Smoothing Filter](https://github.com/smruthi-sreenivas/SkinSmoothing): Implemented face detection and skin patch isolation for natural skin smoothing.
+- 🤖 [Green Screen Matting Algorithm](https://github.com/smruthi-sreenivas/ChromaKeying): Added Softness and Color Cast sliders for customizable background replacement.
+- 🍛 [Kenyan Food Classifier](https://github.com/smruthi-sreenivas/Kenyan_food_classifier): Built a model to classify traditional Kenyan dishes using CNNs, achieving high accuracy.
+- 🚁 [Aerial Drone Segmentation](https://github.com/smruthi-sreenivas/Aerial_Drone_Segmentation): Developed a segmentation model to analyze drone imagery, enabling precise detection of land-use patterns and structures.
 
 ### 📈 GitHub Stats
 ![Smruthi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=smruthi-sreenivas&show_icons=true&theme=radical)
